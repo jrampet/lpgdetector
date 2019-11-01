@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "866477062755",
+    "firebase_url": "https://lpgsensor-a128a.firebaseio.com",
+    "project_id": "lpgsensor-a128a",
+    "storage_bucket": "lpgsensor-a128a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866477062755:android:8fc2bf63a69b315f5b9656",
+        "android_client_info": {
+          "package_name": "com.example.sensor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866477062755-llmlqc8c1af345qgbo4cisbn0c17be4d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sensor",
+            "certificate_hash": "e23ecc76d368c8f189802c485c3fd23153b06986"
+          }
+        },
+        {
+          "client_id": "866477062755-g5mio4ol1ou5bt65deutvlqihp772937.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuwQjAqZfjJjbsL16MpghFPZ0S2CvKCLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866477062755-g5mio4ol1ou5bt65deutvlqihp772937.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
